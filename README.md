@@ -27,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rifattalukdar88&show_icons=true&locale=en" alt="rifattalukdar88" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rifattalukdar88&" alt="rifattalukdar88" /></p>
+
+![Waves](wave.svg)
