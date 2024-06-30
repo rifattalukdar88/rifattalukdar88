@@ -1,3 +1,6 @@
+![I am Full Stack Web Developer](https://github.com/rifattalukdar88/rifattalukdar88/blob/main/banner.jpg)
+
+
 <h1 align="center">Hi 👋, I'm Rifat Talukdar</h1>
 <h3 align="center">I am Full Stack Web Developer</h3>
 
