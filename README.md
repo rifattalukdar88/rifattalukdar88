@@ -28,4 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rifattalukdar88&" alt="rifattalukdar88" /></p>
 
-![Waves](wave.svg)
+![Waves](wave2.svg)
